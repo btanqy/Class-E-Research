@@ -1,0 +1,12 @@
+since there are a lot of losses to the banana wires and contact resistance, the 2vin supply at 2.05A dropped approximately 0.56V
+
+at 22kohm load, zvs is achieved at 250khz without any Ls or matching network
+
+245V at output, meaning output power is 2.73W
+
+accounting for voltage drop at input, true efficiency is 92.4%
+\
+
+
+at open load, was able to run 270mW at 300khz
+voltage was at 408V

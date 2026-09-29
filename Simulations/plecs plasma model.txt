@@ -1,0 +1,26 @@
+plecs plasma model
+off the shelf plasma generator
+find operating points
+find comparisons to tokamaks
+variable matching network/control/different topologies for soft switching
+
+Tuesday 11-12 office hour
+Friday around 10 ish office hours
+
+
+elevator pitch
+dc and ac plasma and vacuum
+plasma in photoresist ashing, sputtering, fusion
+driving piezo dbd with pockets of vacuum
+how to find an equivalent impedance, is this possible
+
+im stuck
+flyback converter is so inefficient
+
+hot take
+no hot takes
+
+
+need help with debounce or whatever drain node is doing
+
+
